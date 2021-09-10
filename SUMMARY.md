@@ -13,8 +13,7 @@
   * [Polymorphism](object-oriented/untitled/polymorphism.md)
   * [Inheritance](object-oriented/untitled/inheritance.md)
   * [Encapsulation](object-oriented/untitled/encapsulation.md)
-* [OOD and SOLID Principle](object-oriented/ood-and-solid-principle/README.md)
-  * [Single Responlity](object-oriented/ood-and-solid-principle/single-responlity.md)
+* [OOD and SOLID Principle](object-oriented/ood-and-solid-principle.md)
 
 ## SQL
 

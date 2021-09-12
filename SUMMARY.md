@@ -4,7 +4,7 @@
 
 ## Core Java
 
-* [Untitled](core-java/untitled.md)
+* [Basics](core-java/untitled.md)
 
 ## Object Oriented
 

@@ -23,7 +23,3 @@
 
 * [Untitled](sql/untitled.md)
 
-## Spirng
-
-* [Spring basics](spirng/spring-basics.md)
-
